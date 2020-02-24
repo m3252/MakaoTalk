@@ -141,6 +141,7 @@
 }
 
 .incoming-message img {
+    height: 30px;
     width: 30px;
     border-radius: 15px;
     margin-right: 15px;
