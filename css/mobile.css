@@ -5,7 +5,6 @@
     top: 0;
     left: 0;
     background-color: #fce006;
-    display: flex;
     justify-content: center;
     align-items: center;
     font-weight: 600;
@@ -14,13 +13,13 @@
     text-align: center;
     line-height: 1.5;
     padding: 0 20px;
-    opacity: 0;
+    display: none;
     z-index: 4;
 }
 
 @media screen and (min-width: 600px){
     .bigScreen{
-        opacity: 1;
+        display: flex;
 
     }
 }
