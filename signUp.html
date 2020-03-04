@@ -16,8 +16,8 @@
         <span class="ir_wa">Makao</span>
     </h1>
 </header>
-<main>
-    <div class="signUp-main">
+<main class="signUp-main">
+    <div class="signUp-form">
         <strong class="tf_required">마카오계정 이메일</strong>
         <div class="item_inp item_tf type_newmail">
             <label class="lab_g lab_txt lab_placeholder">이메일 주소 입력</label>
@@ -77,8 +77,23 @@
         </ul>
 
         <strong class="tf_required">성별</strong>
+        <div class="type_gender">
+            <input type="radio" name="gender" value="none"/>
+            <label class="lab_g lab_placeholder lab_txt">선택없음</label>
+
+            <input type="radio" name="gender" value="1"/>
+            <label class="lab_g lab_placeholder lab_txt">남자</label>
+
+            <input type="radio" name="gender" value="2"/>
+            <label class="lab_g lab_placeholder lab_txt">여자</label>
+        </div>
+
+        <div class="wrap_btn wrap_btn3">
+            <button class="btn_g submit" type="button">회원가입 완료</button>
+        </div>
 
     </div>
+
 
 </main>
 
