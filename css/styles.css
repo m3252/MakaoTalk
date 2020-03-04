@@ -11,6 +11,8 @@
 @import "chat.css";
 @import "mobile.css";
 @import "login.css";
+@import "signUp.css";
+
 * {
     box-sizing: border-box;
 }
