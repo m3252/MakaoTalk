@@ -1,10 +1,14 @@
-# MakaoTalk
+### MakaoTalk(마카오톡)
+- 카카오톡을 클론하여 채팅사이트 마카오톡을 만들었습니다.
 
-카카오톡을 클론하여 MakaoTalk을 만듭니다.
-프로젝트를 진행하며 HTML, CSS에 대해 더 깊이 공부를 하였습니다.
+### 개요
+- 부족한 HTML, CSS 지식 및 동작과정 학습
+- 추후 백엔드 연계를 통한 프로젝트 결과물
 
-정적 호스팅 URI
-https://m3252.github.io/MakaoTalk/index.html
+### 정적 결과물
+- 정적 호스팅 URI
+  - https://m3252.github.io/MakaoTalk/index.html
 
-앞으로 관심있던 기술들을 공부하여 Backend를 적용할 예정입니다.
+
+추후 Backend를 적용할 예정입니다.
 
